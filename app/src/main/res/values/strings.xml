@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">SimpleJamApp</string>
+    <string name="arpeggiator_label">Play Chord/Arpeggiator</string>
 </resources>
